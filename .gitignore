@@ -14,8 +14,10 @@ SourceTrail/
 libs/gen/
 libs/x64-windows/
 libs/x86-windows/
+libs/android/
 libs/libqvb-*
 
+assets/android/AndroidManifest*
 build**/
 out/
 
